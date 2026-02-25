@@ -1,4 +1,4 @@
-# China Trip Planner - Developer Guide
+# China Trip Planner - Developer Guide 
 
 This application is a static frontend prototype for a China Trip Planner. It currently uses a local `data.ts` file to store itinerary templates.
 
